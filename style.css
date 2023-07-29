@@ -1,0 +1,21 @@
+
+
+#headOne{
+color:green
+}
+
+
+#mainContent{
+	background: url('pino.jpeg') no-repeat;
+    background-size: 100% 100%;
+	/* background-size: cover; */
+	position: absolute;
+	width:100%;
+	height:100%;
+
+}
+
+
+#mainContent {
+    opacity: 0.3;
+}
